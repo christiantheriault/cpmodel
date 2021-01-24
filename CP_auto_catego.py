@@ -10,7 +10,7 @@ import torch
 import numpy
 import numpy as np
 import sys
-sys.path.append('/home/dista/Documents/pytorch_codes/')
+sys.path.append('/home/dista/Documents/cpmodel/')
 import torch.nn as nn
 import matplotlib.pyplot as plt
 
@@ -42,7 +42,7 @@ from shutil import copyfile
 from datetime import datetime
 
 
-codelocation='./pytorch_codes/'
+codelocation='./cpmodel/'
 #codelocation='/content/drive/My Drive/Colab Notebooks/'
 
 #exclusive
